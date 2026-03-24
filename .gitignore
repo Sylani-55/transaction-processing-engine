@@ -1,0 +1,13 @@
+# Binaries
+bin/
+*.exe
+*.out
+
+# Logs
+*.log
+
+# Env files
+.env
+
+# OS files
+.DS_Store
