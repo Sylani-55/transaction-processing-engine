@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	// Dummy card for testing
+	
 	storage.Cards["4123456789012345"] = &models.Card{
 		CardNumber: "4123456789012345",
 		CardHolder: "John Doe",
