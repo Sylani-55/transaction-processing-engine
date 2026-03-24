@@ -53,7 +53,7 @@ Client (Postman / Curl)
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/transaction-processing-engine.git
+git clone https://github.com/Sylani-55/transaction-processing-engine.git
 cd transaction-processing-engine
 ```
 
